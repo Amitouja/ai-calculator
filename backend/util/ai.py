@@ -1,6 +1,6 @@
 import google.generativeai as genai
 
-genai.configure(api_key="")
+genai.configure(api_key="AIzaSyBoi5WQAx5DwD-JCgC3W1GUz_QQv6ud3IU")
 
 def ai_calc(question):
     # Create the model
